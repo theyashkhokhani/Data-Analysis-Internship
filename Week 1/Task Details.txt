@@ -1,0 +1,15 @@
+Date: 15/05/2024
+
+Dictionary, Tuple, Lists, Sets in Python basic C(Create), R(Read), U(Update), D(Delete) operations code and screenshot.
+
+Upload this practical on GitHub and then paste that link on the google form link.
+
+https://drive.google.com/drive/folders/1yqLdtOEeY32r9vQ-IWPBzeKqk_TiT0l4
+
+https://forms.gle/jT4EjLzyeBToRGCg6
+
+I have performed the Task 1 in Data Analysis Internship at Main Flow Services and Technologies.
+
+
+
+#mainflow
